@@ -1,11 +1,11 @@
 {
-    "name": "Erfan Rahmati",
-    "short_name": "Erfan Rahmati",
+    "name": "Kavita Mundada",
+    "short_name": "Kavita Mundada",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Erfan Rahmati's portfolio website.",
+    "description": "Kavita Mundada's portfolio website.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
