@@ -53,7 +53,7 @@ class _IntroductionState extends State<Introduction>
           if (showName) ...[
             SizedBox(height: 16),
             Typewriter(
-              'Erfan Rahmati',
+              'Kavita Mundada',
               animate: !nameSeen,
               textStyle: TextStyle(
                 color: Colors.blueGrey[900],
@@ -139,7 +139,7 @@ class __HireMeButtonState extends State<_HireMeButton> {
       hoverColor: Colors.transparent,
       splashColor: Colors.transparent,
       onTap: () {
-        UrlHelper.launchUrl("mailto:ErfanRht1384.com@gmail.com");
+        UrlHelper.launchUrl("mailto:kavitasamundada@gmail.com");
       },
       onHover: (value) {
         if (mounted) {

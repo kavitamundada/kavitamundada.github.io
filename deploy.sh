@@ -21,12 +21,12 @@ flutter analyze
 flutter build web
 
 # Copy the generated files into the Github pages repo directory
-cp -R build/web/. ../../ErfanRht.github.io
+cp -R build/web/. ../../kavitamundada.github.io
 
 echo "Pushing with commit message: $message"
 
 # Change into the Github pages repo directory, commit the changes and push
-cd ../../ErfanRht.github.io
+cd ../../kavitamundada.github.io
 git add .
 git commit -m "$message"
 git push
