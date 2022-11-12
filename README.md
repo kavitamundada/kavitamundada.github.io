@@ -12,7 +12,7 @@
 
 ## Author
 
-This Flutter project is developed by [Erfan Rahmati](https://github.com/kavitamundada).
+This Flutter project is developed by [Kavita Mundada](https://github.com/kavitamundada).
 
 ---
 
