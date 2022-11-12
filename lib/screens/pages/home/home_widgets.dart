@@ -73,7 +73,7 @@ class _IntroductionState extends State<Introduction>
           if (showPosition) ...[
             SizedBox(height: 16),
             Typewriter(
-              'Mobile & Web Developer',
+              'Graphic Designer',
               animate: !positionSeen,
               textStyle: TextStyle(
                 color: Colors.blueGrey[900],
