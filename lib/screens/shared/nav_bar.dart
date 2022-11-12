@@ -47,7 +47,7 @@ class MobileNavbar extends StatelessWidget implements PreferredSizeWidget {
           RichText(
             textAlign: TextAlign.center,
             text: TextSpan(
-              text: 'Erfan',
+              text: 'Kavita',
               style: textStyle.copyWith(
                 color: Colors.black.withOpacity(0.75),
                 fontSize: 18,
@@ -55,7 +55,7 @@ class MobileNavbar extends StatelessWidget implements PreferredSizeWidget {
               ),
               children: [
                 TextSpan(
-                  text: 'Rahmati',
+                  text: 'Mundada',
                   style: textStyle.copyWith(
                     color: kPrimaryColor,
                     fontSize: 18,
@@ -136,7 +136,7 @@ class _NavbarState extends State<Navbar> {
                   RichText(
                     textAlign: TextAlign.center,
                     text: TextSpan(
-                      text: 'Erfan',
+                      text: 'Kavita',
                       style: textStyle.copyWith(
                         color: Colors.black.withOpacity(0.75),
                         fontSize: 18,
@@ -144,7 +144,7 @@ class _NavbarState extends State<Navbar> {
                       ),
                       children: [
                         TextSpan(
-                          text: 'Rahmati',
+                          text: 'Mundada',
                           style: textStyle.copyWith(
                             color: kPrimaryColor,
                             fontSize: 18,

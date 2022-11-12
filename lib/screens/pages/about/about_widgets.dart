@@ -79,7 +79,7 @@ class _AboutContentState extends State<AboutContent>
           ),
           if (showAbout)
             Typewriter(
-              "Hello! I'm Erfan Rahmati, A teen software developer.\n\n"
+              "Hello! I'm Kavita Mundada, A teen graphic designer.\n\n"
               "I love to create performant and interesting stuff that are beneficial to the community.\n"
               "I enjoy learning and exploring new areas in the technologies I work with and even the ones outside my stack.\n\n",
               //"Currently I am working with Dart, Python and Framework languages.",

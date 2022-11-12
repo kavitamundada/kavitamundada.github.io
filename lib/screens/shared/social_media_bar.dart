@@ -20,7 +20,7 @@ class SocialMediaBar extends StatelessWidget {
             hoverColor: Colors.transparent,
             splashColor: Colors.transparent,
             onTap: () {
-              UrlHelper.launchUrl('https://github.com/ErfanRht');
+              UrlHelper.launchUrl('https://github.com/kavitamundada');
             },
             child: Icon(
               SocialIcons.github,
@@ -33,7 +33,7 @@ class SocialMediaBar extends StatelessWidget {
             splashColor: Colors.transparent,
             onTap: () {
               UrlHelper.launchUrl(
-                'https://www.linkedin.com/in/ErfanRahmati/',
+                'https://www.linkedin.com/in/kavita-mundada-562988223',
               );
             },
             child: Icon(
@@ -47,7 +47,7 @@ class SocialMediaBar extends StatelessWidget {
             splashColor: Colors.transparent,
             onTap: () {
               UrlHelper.launchUrl(
-                "mailto:ErfanRht1384.com@gmail.com?subject=Hello%20DKB",
+                "mailto:kavitasamundada@gmail.com?subject=Hello%20DKB",
               );
             },
             child: Icon(
@@ -60,7 +60,7 @@ class SocialMediaBar extends StatelessWidget {
             hoverColor: Colors.transparent,
             splashColor: Colors.transparent,
             onTap: () {
-              UrlHelper.launchUrl('https://twitter.com/ErfanRht');
+              UrlHelper.launchUrl('');
             },
             child: Icon(
               SocialIcons.twitter,
@@ -72,7 +72,7 @@ class SocialMediaBar extends StatelessWidget {
             hoverColor: Colors.transparent,
             splashColor: Colors.transparent,
             onTap: () {
-              UrlHelper.launchUrl('https://www.instagram.com/ErfanRahmatei/');
+              UrlHelper.launchUrl('https://www.instagram.com/kaviii_0410/');
             },
             child: Icon(
               SocialIcons.instagram,
@@ -85,7 +85,7 @@ class SocialMediaBar extends StatelessWidget {
             splashColor: Colors.transparent,
             onTap: () {
               UrlHelper.launchUrl(
-                'https://web.facebook.com/ErfanRahmati',
+                '',
               );
             },
             child: Icon(
@@ -99,7 +99,7 @@ class SocialMediaBar extends StatelessWidget {
             splashColor: Colors.transparent,
             onTap: () {
               UrlHelper.launchUrl(
-                  'https://api.whatsapp.com/send?phone=0989397288246');
+                  'https://api.whatsapp.com/send?phone=918329262298');
             },
             child: Icon(
               SocialIcons.whatsapp,

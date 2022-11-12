@@ -59,7 +59,7 @@ class Navbar extends StatelessWidget {
                   RichText(
                     textAlign: TextAlign.center,
                     text: TextSpan(
-                      text: 'Erfan',
+                      text: 'Kavita',
                       style: textStyle.copyWith(
                         color: Colors.black.withOpacity(0.75),
                         fontSize: 18,
@@ -67,7 +67,7 @@ class Navbar extends StatelessWidget {
                       ),
                       children: [
                         TextSpan(
-                          text: 'Rahmati',
+                          text: 'Mundada',
                           style: textStyle.copyWith(
                             color: kPrimaryColor,
                             fontSize: 18,
