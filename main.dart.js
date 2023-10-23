@@ -70182,7 +70182,7 @@ q.push(B.Vh)
 q.push(B.a0)
 s=A.HD(4,1.3)
 r=A.HD(6,1.3)
-q.push(A.lN(new A.eS(s,A.HD(2,1.8),A.HD(1,1.5),A.HD(3,1.4),r,null),1))
+q.push(A.lN(new A.eS(s,A.HD(1,1.8),A.HD(1,1.5),A.HD(3,1.4),r,null),1))
 return A.eT(null,A.e0(q,B.aj,B.y),null)}}
 A.a1r.prototype={
 VL(a,b){A.De(B.j,!0,"Barrier",a,new A.a1x(b),A.bX(0,500),t.X)}}
