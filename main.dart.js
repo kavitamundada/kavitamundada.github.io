@@ -70182,7 +70182,7 @@ q.push(B.Vh)
 q.push(B.a0)
 s=A.HD(4,1.3)
 r=A.HD(6,1.3)
-q.push(A.lN(new A.eS(s,A.HD(2,1.8),A.HD(2,1.5),A.HD(3,1.4),r,null),1))
+q.push(A.lN(new A.eS(s,A.HD(2,1.8),A.HD(1,1.5),A.HD(3,1.4),r,null),1))
 return A.eT(null,A.e0(q,B.aj,B.y),null)}}
 A.a1r.prototype={
 VL(a,b){A.De(B.j,!0,"Barrier",a,new A.a1x(b),A.bX(0,500),t.X)}}
@@ -70255,7 +70255,7 @@ A.EY.prototype={
 G(a){var s=null,r=A.bv(30),q=A.bv(20),p=A.a([B.a5,B.cf],t.W)
 return new A.eq(B.Fw,A.fN(!1,r,!0,A.bS(s,A.dE(A.a([B.Gt,B.iA,A.c_("Whatsapp",s,s,A.al(a).p3.ax.LL(B.h,B.M,1.2))],t.p),B.D,B.bb,B.N),B.p,s,s,new A.bG(s,s,s,q,B.hx,new A.fP(B.b3,B.aP,B.a1,p,s,s),B.L),s,60,s,s,s,s,150),s,!0,s,s,s,s,s,s,s,s,s,new A.XT(),s,s,s,s),s)}}
 A.XT.prototype={
-$0(){A.po(A.fo("https://wa.me/8329262298",0,null))},
+$0(){A.po(A.fo("https://wa.me/918329262298",0,null))},
 $S:0}
 A.Dq.prototype={
 G(a){var s=null
